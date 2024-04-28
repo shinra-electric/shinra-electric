@@ -1,6 +1,6 @@
 ## Hi, I'm Séamus
 
-I'm just getting this readme set up, so it's a bit bare-bones at the moment
+I'm trying to get a new career in software engineering going. 
 
 I'm currently a Pier student at the Apple Developer Academy in Napoli working on a private macOS app for an internal client. 
 
@@ -9,7 +9,9 @@ I'm currently a Pier student at the Apple Developer Academy in Napoli working on
 ## Github Stats
 I don't play the numbers game, but here are my stats anyway. 
 
-These do not include private repositories, which are mostly Swift and Zsh shell scripts...
+These stats do not include private repositories, which is where most of my code goes. 
+
+My private repos are mostly Swift and Zsh shell scripts.
 
 <picture>
   <source
