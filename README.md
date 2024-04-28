@@ -4,4 +4,4 @@ I'm just getting this readme set up, so it's a bit bare-bones at the moment
 
 I'm currently a Pier student at the Apple Developer Academy in Napoli working on a macOS app for an internal client. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinra-electric)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinra-electric&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
