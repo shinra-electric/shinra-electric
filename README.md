@@ -2,9 +2,9 @@
 
 I'm trying to get a new career in software engineering going. 
 
-I'm currently a Pier student at the Apple Developer Academy in Napoli working on a private macOS app for an internal client.
+I was most recently a Pier student at the Apple Developer Academy in Napoli working on a private macOS app for an internal client.
 
-We're using SwiftUI for the frontend and FileMaker on the server-side.
+We used SwiftUI for the frontend and FileMaker on the server-side.
 
 <hr/>
 
