@@ -15,8 +15,6 @@ These stats do not include private repositories, which is where most of my code 
 
 My private repos are mostly Swift and Zsh shell scripts.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shinra-electric=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shinra-electric&show_icons=true&theme=dark"
