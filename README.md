@@ -17,26 +17,26 @@ My private repos are mostly Swift and Zsh shell scripts.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shinra-electric&show_icons=true&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=shinra-electric&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shinra-electric&show_icons=true"
+    srcset="https://github-stats-extended.vercel.app/api?username=shinra-electric&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shinra-electric&show_icons=true" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=shinra-electric&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shinra-electric&layout=compact&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=shinra-electric&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shinra-electric&layout=compact"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=shinra-electric&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinra-electric&layout=compact" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shinra-electric&layout=compact" />
 </picture>
 
 <hr/>
